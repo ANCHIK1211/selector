@@ -1,0 +1,30 @@
+
+.text {
+    color: rgb(18, 101, 131);
+    text-align: center;
+}
+
+[href] {
+    color: rgb(128, 34, 34);
+}
+
+#paragraph {
+    color: aqua;
+}
+
+div, p {
+    background-color: rgb(182, 182, 201);
+}
+
+.btn.active {
+    background-color: rgb(124, 82, 82);
+}
+
+header .menu {
+    background-color: blueviolet;
+}
+
+* {
+    font-size: 16px;
+    width: 300px;
+}
